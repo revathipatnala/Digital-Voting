@@ -112,7 +112,7 @@ This ensures a transparent and secure online election workflow.
 
 ## 👨‍💻 Author
 
-Your Name
+Revathi Patnala
 B.Tech Computer  data Science Student
 GitHub: https://github.com/revathipatnala
 
